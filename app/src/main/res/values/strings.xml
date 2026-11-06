@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weather_app</string>
+    <string name="temp_format">%.1f°C</string>
+    <string name="humidity_format">Влажность: %d%%</string>
+</resources>
